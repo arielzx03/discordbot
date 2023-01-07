@@ -31,7 +31,7 @@ class Discord:
         return u
 
 def quote():
-    u = requests.get("https://raw.githubusercontent.com/arielzx03/discordbot/main/quote.json").json()
+    u = requests.get("https://raw.githubusercontent.com/arielzx03/quote.json/main/quotes.json").json()
     return random.choice(list(u))['quote']
 
 def simsimi(lc, txt):
