@@ -15,7 +15,7 @@ NOTE : RESIKO DITANGGUNG SENDIRI!
 - Terminal / Termux
 - Python3
 
-## • INSTALASI
+## • Instalasi
 
 ```
 pkg install python3
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 nano config.yaml
 ```
-## • KONFIGURASI
+## • Konfigurasi
 ```env
 BOT_TOKEN:                      # Discord SelfBot Token *Required
     - Discord Token 1           # You can add multiple discord token
@@ -54,7 +54,7 @@ DELAY: 60	                    # Delay per send massage *second
 DEL_AFTER: Y                    # Delete after send *Leave blank if you dont use it 
 REPOST_LAST_CHAT: 100           # Repost from last ?n chat in channel          
 ```
-## • Cara Mendapatkan TOKEN Discord
+## • Cara Mendapatkan Token Discord
 
 ```
 javascript:var i = document.createElement('iframe');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('I AM ATOMIC!', localStorage.getItem('token').replace(/["]+/g, ''));};document.body.appendChild(i);
@@ -66,11 +66,11 @@ Paste di bar Url
 
 Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa mengetiknya manual
 
-## • RUN BOT
+## • Run BOT
 ```
 python bot.py
 ```
-## • BUY ME A COFFEE?
+## • Buy Me A Coffee?
 
 BSC/EVM : 0x84352e6913317d82B1CE2dAf96EbF816aF48f843
 
