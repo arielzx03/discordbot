@@ -1,21 +1,3 @@
-
-Sign up
-arielzx03
-/
-dcbot
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Dcbot/bot.py
-@arielzx03
-arielzx03 fix bot.py
- 1 contributor
-121 lines (93 sloc)  4.44 KB
 #!/usr/bin/env python3
 # Simple Discord Spam Chat
 # Use At Your Own Risk
