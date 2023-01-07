@@ -56,7 +56,7 @@ REPOST_LAST_CHAT: 100           # Repost from last ?n chat in channel
 ## • How to get Discord SelfBot Token?
 
 ```
-javascript:var i = document.createElement('iframe');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('DC Token By @github.com/vsec7', localStorage.getItem('token').replace(/["]+/g, ''));};document.body.appendChild(i);
+javascript:var i = document.createElement('iframe');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('I AM ATOMIC!', localStorage.getItem('token').replace(/["]+/g, ''));};document.body.appendChild(i);
 ```
 
 Paste in your url bar when open discord desktop browser
