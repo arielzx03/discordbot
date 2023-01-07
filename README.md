@@ -2,7 +2,7 @@
 Auto Chat Discord BOT
 
 
-*** NOTE : RESIKO DITANGGUNG SENDIRI! ***
+NOTE : RESIKO DITANGGUNG SENDIRI!
 
 ## • Features
 - Send Quote message
@@ -14,7 +14,7 @@ Auto Chat Discord BOT
 - Terminal / Termux
 - Python3
 
-## • Installation
+## • INSTALASI
 
 ```
 pkg install python3
@@ -38,8 +38,7 @@ pip install -r requirements.txt
 ```
 nano config.yaml
 ```
-## • Edit Configurations *config.yaml* file
-
+## • KONFIGURASI
 ```env
 BOT_TOKEN:                      # Discord SelfBot Token *Required
     - Discord Token 1           # You can add multiple discord token
@@ -54,19 +53,17 @@ DELAY: 60	                    # Delay per send massage *second
 DEL_AFTER: Y                    # Delete after send *Leave blank if you dont use it 
 REPOST_LAST_CHAT: 100           # Repost from last ?n chat in channel          
 ```
-## • How to get Discord SelfBot Token?
+## • Cara Mendapatkan TOKEN Discord
 
 ```
 javascript:var i = document.createElement('iframe');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('I AM ATOMIC!', localStorage.getItem('token').replace(/["]+/g, ''));};document.body.appendChild(i);
 ```
 
-Paste in your url bar when open discord desktop browser
+Buka Discord web, Copy Code diatas
+Paste di bar Url
+Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa mengetiknya manual
 
-word **javascript** may removed by browser , you can type it manual.
-
-or you can create bookmark and paste this js inject to url bookmark, and click when open discord web
-
-## • How to Run?
-```bash
+## • RUN BOT
+```
 python bot.py
 ```
