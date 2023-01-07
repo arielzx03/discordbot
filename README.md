@@ -69,3 +69,4 @@ Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa 
 ```
 python bot.py
 ```
+## •Enjoy
