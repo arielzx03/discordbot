@@ -2,7 +2,7 @@
 Sign up
 vsec7
 /
-DiscordSelfbot
+dcbot
 Public
 Code
 Issues
@@ -11,7 +11,7 @@ Actions
 Projects
 Security
 Insights
-DiscordSelfbot/bot.py
+Dcbot/bot.py
 @vsec7
 vsec7 fix bot.py
  1 contributor
