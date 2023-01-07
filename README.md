@@ -28,7 +28,7 @@ git clone https://github.com/arielzx03/discordbot.git
 pkg install openssl
 ```
 ```
-cd DiscordSelfbot
+cd discordbot
 ```
 ```
 pip install -r requirements.txt
