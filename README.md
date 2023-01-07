@@ -69,4 +69,7 @@ Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa 
 ```
 python bot.py
 ```
-## •Enjoy
+## • BUY ME A COFFEE
+
+BSC/EVM : 0x84352e6913317d82B1CE2dAf96EbF816aF48f843
+SOL : tYx9QAvAABjendNELwaLpTgXEXgj9QaDjC61co7zR5F
