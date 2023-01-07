@@ -22,7 +22,7 @@ pkg install python3
 pkg install git
 ```
 ```
-git clone https://github.com/vsec7/DiscordSelfbot.git
+git clone https://github.com/arielzx03/Bot-DC.git
 ```
 ```
 pkg install openssl
