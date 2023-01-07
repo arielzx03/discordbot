@@ -2,7 +2,7 @@
 Auto Chat Discord BOT
 
 
-*** NOTE : USE AT YOUR OWN RISK! ***
+*** NOTE : RESIKO DITANGGUNG SENDIRI! ***
 
 ## • Features
 - Send Quote message
@@ -11,6 +11,7 @@ Auto Chat Discord BOT
 - Auto Delete message
 
 ## • Requirements
+- Terminal / Termux
 - Python3
 
 ## • Installation
