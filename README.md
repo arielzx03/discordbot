@@ -84,6 +84,8 @@ Pastikan sudah di folder discordbot "cd discordbot"
 ```
 nano config.yaml
 ```
+Jika config sudah diatur, klik ctrl + s lalu ctrl + x
+Done
 ## • Buy Me A Coffee?
 
 BSC/EVM : 0x84352e6913317d82B1CE2dAf96EbF816aF48f843
