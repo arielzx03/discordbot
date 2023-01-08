@@ -85,6 +85,7 @@ Pastikan sudah di folder discordbot "cd discordbot"
 nano config.yaml
 ```
 Jika config sudah diatur, klik ctrl + s lalu ctrl + x
+
 Done
 ## • Buy Me A Coffee?
 
