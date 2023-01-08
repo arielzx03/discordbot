@@ -70,6 +70,20 @@ Kata "Javascript" biasanya terhapus sendiri oleh browser anda, jadi kalian bisa 
 ```
 python bot.py
 ```
+## • MORE INFO
+Cara Run bot dari awal jika termux / terminal di close
+```
+cd discordbot
+```
+```
+pyhton bot.py
+```
+
+Cara mengganti id discord channel
+Pastikan sudah di folder discordbot "cd discordbot"
+```
+nano config.yaml
+```
 ## • Buy Me A Coffee?
 
 BSC/EVM : 0x84352e6913317d82B1CE2dAf96EbF816aF48f843
