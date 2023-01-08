@@ -76,7 +76,7 @@ Cara Run bot dari awal jika termux / terminal di close
 cd discordbot
 ```
 ```
-pyhton bot.py
+Python bot.py
 ```
 
 Cara mengganti id discord channel
